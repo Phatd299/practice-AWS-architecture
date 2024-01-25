@@ -1,3 +1,8 @@
+## Showcase My Completion Certificate
+
+<img width="579" alt="image" src="https://github.com/Phatd299/practice-AWS-architecture/assets/110618138/62774835-6053-447d-9edf-2a1cef84fbfa">
+
+---
 # practice-AWS-architecture
 
 This repository documents the AWS architecture proposal for optimizing the hosting of the Fastier web application. The process involves understanding the client's challenges, devising a suitable AWS solution, and communicating the proposed architecture to the client, Lilly Sawyer.
@@ -88,9 +93,6 @@ Best regards,
 
 ![image](https://github.com/Phatd299/practice-AWS-architecture/assets/110618138/d5ff7cbb-0fc3-49d7-a7c9-e237283ef212)
 
----
 
-## Showcase My Completion Certificate
 
-<img width="579" alt="image" src="https://github.com/Phatd299/practice-AWS-architecture/assets/110618138/62774835-6053-447d-9edf-2a1cef84fbfa">
 
